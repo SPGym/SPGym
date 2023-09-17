@@ -5,7 +5,7 @@ body {
 }
 
 .layout_padding {
-  padding: 90px 0;
+  padding: 40px 0;
 }
 
 .layout_padding2 {
@@ -29,7 +29,7 @@ body {
 }
 
 .heading_container {
-  display: -webkit-box;
+  display: -webkit-;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
@@ -172,9 +172,9 @@ a:focus {
   background-position: center;
 }
 
-.custom_nav-container .nav_search-btn:hover {
-  background-image: url(../images/search-icon.png);
-}
+/* .custom_nav-container .nav_search-btn:hover { */
+  /* background-image: url(../images/search-icon.png); */
+/* } */
 
 .navbar-brand {
   display: -webkit-box;
@@ -218,8 +218,8 @@ a:focus {
 /*end header section*/
 /* slider section */
 .slider_section {
-  height: calc(100% - 80px);
-  background-image: url(../images/slider-bg.jpg);
+  height: calc(100% - 0px);
+  background-image: url(https://gymgear.com/wp-content/uploads/2023/06/AdobeStock_317724775-1-scaled.jpeg);
   background-size: cover;
 }
 
@@ -393,6 +393,7 @@ a:focus {
   background-color: transparent;
   color: #151615;
 }
+
 
 .service_section .service_container {
   display: -webkit-box;
@@ -615,7 +616,7 @@ a:focus {
   background-color: #f8bc1a;
 }
 
-.result_section {
+/* .result_section { 
   color: #ffffff;
   background-color: #3c0e78;
 }
@@ -668,7 +669,7 @@ a:focus {
 .result_section .detail-box a:hover {
   background-color: transparent;
   color: #f8bc1a;
-}
+/* } */
 
 /* contact section */
 .contact_section {
